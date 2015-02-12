@@ -4,7 +4,7 @@ Exemplo para o blog http://rcdevlabs.github.io/
 No post: [Como criar uma API RESTfull em NodeJS e autenticar usando JSON Web Token JWT?](http://rcdevlabs.github.io/2015/02/12/como-criar-uma-api-restfull-em-nodejs-e-autenticar-usando-json-web-token-jwt/)
 
 Para testar:
-1. Clone
+1. Clone ou baixe. Edite no `server.js`, adicionando a URL do seu mongodb na `var db`
 
 2. entre com o terminal e rode node server
 
