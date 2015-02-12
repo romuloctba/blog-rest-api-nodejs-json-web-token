@@ -6,7 +6,7 @@ No post: [Como criar uma API RESTfull em NodeJS e autenticar usando JSON Web Tok
 Para testar:
 1. Clone ou baixe. Edite no `server.js`, adicionando a URL do seu mongodb na `var db`
 
-2. entre com o terminal e rode node server
+2. entre com o terminal e rode `node server`
 
 3. Com POSTMAN ou outra ferramenta de http requests execute um POST com username e password para  http://localhost:8080/api/usuarios
 
