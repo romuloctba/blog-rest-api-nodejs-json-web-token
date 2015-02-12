@@ -3,7 +3,7 @@ var express = require('express')
   , bodyParser = require('body-parser')
   , mongoose = require('mongoose')
   , jwt = require('jwt-simple');
-  var db = 'mongodb://teste:teste@ds053668.mongolab.com:53668/teste-jwt';//coloque a url do db aqui
+  var db = '';//coloque a url do db aqui
   app.use(bodyParser.urlencoded({ extended: true }));
   app.use(bodyParser.json());
   var port = process.env.PORT || 8080;
